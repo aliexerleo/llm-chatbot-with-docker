@@ -75,6 +75,21 @@ for stop some containers with docker-compose
   docker-compose down
 ```
 
+## References
+
+ - [Ollama website](https://ollama.com/)
+ - [Ollama docs](https://github.com/ollama/ollama/blob/main/docs/modelfile.md#valid-parameters-and-values)
+ - [Docker](https://www.docker.com/products/docker-desktop/?_gl=1*1s706q5*_ga*NDg0MTcyMzE5LjE3MTM5MjMxMDM.*_ga_XJWPQMJYHQ*MTcxNTI4NDA4NS4xMS4xLjE3MTUyODQzOTcuMzYuMC4w)
+ - [Play with docker]( https://www.docker.com/play-with-docker/)
+
+
+## Extras
+
+- [Intro to NLP](https://www.youtube.com/watch?v=Tg1MjMIVArc) (https://www.youtube.com/watch?v=RkYuH_K7Fx4&t=4s)
+
+- [LLMs can doing](https://www.youtube.com/watch?v=uK3tDlzbcTI&t=72s)
+
+
 ## Authors
 
 - [@aliexerleo](https://github.com/aliexerleo)
