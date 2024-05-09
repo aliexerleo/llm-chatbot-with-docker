@@ -85,7 +85,9 @@ for stop some containers with docker-compose
 
 ## Extras
 
-- [Intro to NLP](https://www.youtube.com/watch?v=Tg1MjMIVArc) (https://www.youtube.com/watch?v=RkYuH_K7Fx4&t=4s)
+- [Intro to NLP](https://www.youtube.com/watch?v=Tg1MjMIVArc)
+
+- [Intro to NLP II](https://www.youtube.com/watch?v=RkYuH_K7Fx4&t=4s)
 
 - [LLMs can doing](https://www.youtube.com/watch?v=uK3tDlzbcTI&t=72s)
 
